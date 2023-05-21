@@ -2,6 +2,10 @@
 
 This program allows you to generate a strong password or check the strength of an existing password.
 
+## Screenshot
+![image](https://github.com/petermartens98/Python-Password-Generator-and-Strength-Checker/assets/87671757/b8e7379d-b809-4645-a83c-0abfc5b68a3d)
+
+
 ## To generate a password:
 
 Enter the desired length of the password.
